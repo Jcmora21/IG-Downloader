@@ -1,5 +1,11 @@
 # IG-Downloader
 
+Download the repository
+```bash
+git clone https://github.com/Jcmora21/IG-Downloader.git
+```
+
+
 Install the libraries
 ```bash
 pip install instaloader
